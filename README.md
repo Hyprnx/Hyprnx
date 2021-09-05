@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Duc Anh 👋
 
 ![Age](https://img.shields.io/badge/age-20-blue)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-blue)](https://en.wikipedia.org/wiki/Hanoi)
@@ -6,6 +6,7 @@
 
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=Hyprnx&show_icons=true)](https://github.com/Hyprnx)
+
 
 <!--
 **Hyprnx/Hyprnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
