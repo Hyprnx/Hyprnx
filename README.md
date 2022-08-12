@@ -33,11 +33,11 @@ I'm Duc Anh! I'm a **Data Science** student, passionate in solving **real-world 
 ## Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-000000.svg?style=flat&logo=Windows&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/-Linux-000000.svg?style=flat&logo=Linux&logoColor=F0F0F0)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
+![Mac OS](https://img.shields.io/badge/MAC%20OS-000000?style=flat&logo=macos&logoColor=F0F0F0)
 
 *worked with*:
 
-![Cent OS](https://img.shields.io/badge/Cent%20os-002260.svg?style=flat&logo=centos&logoColor=F0F0F0)
+![Cent OS](https://img.shields.io/badge/Cent%20OS-002260.svg?style=flat&logo=centos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white)
 
 ## Programming Languages
