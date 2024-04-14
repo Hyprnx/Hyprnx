@@ -1,7 +1,7 @@
 ### Hi there, i'm Duc Anh 👋
 
 <!--Introduction -->
-I'm Duc Anh! I'm  **Data Scientist** , passionate in solving **real-world problems**:earth_asia:. Also love the AI field, especially Deep Learning. Consider :star2: my repositories if you find my project interesting, at least your star could make someone's day :pray:.
+I'm Duc Anh! I'm  **Management Associate** at **Techcombank Vietnam** , passionate in solving **real-world problems**:earth_asia:. Also love the AI field, especially Deep Learning. Consider :star2: my repositories if you find my project interesting, at least your star could make someone's day :pray:.
 
 
 ![Age](https://img.shields.io/badge/age-23-000000)
