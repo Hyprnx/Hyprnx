@@ -4,7 +4,7 @@
 I'm Duc Anh! I'm  **Management Associate** at **Techcombank Vietnam** , passionate in solving **real-world problems**:earth_asia:. Also love the AI field, especially Deep Learning. Consider :star2: my repositories if you find my project interesting, at least your star could make someone's day :pray:.
 
 
-![Age](https://img.shields.io/badge/age-23-000000)
+![Age](https://img.shields.io/badge/age-24-000000)
 [![Living](https://img.shields.io/badge/Living-Hanoi%2C%20Vietnam-000000)](https://en.wikipedia.org/wiki/Hanoi)
 [![Working](https://img.shields.io/badge/Working-Techcombank%20Vietnam-000000)](https://techcombank.com/)
 [![Learning](https://img.shields.io/badge/Learning%20-National%20Economics%20University-000000)](https://en.neu.edu.vn/)
